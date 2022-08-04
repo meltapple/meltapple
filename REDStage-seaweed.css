@@ -281,11 +281,9 @@ border:none;
 color:#26282e;
 background-color:#2B2D33;
 }
-
 .autocomplete-suggestions a {
 color: #C6C9C9;
 }
-
 .autocomplete-suggestions .autocomplete-suggestion {
 line-height:24px;
 padding:0 8px;
